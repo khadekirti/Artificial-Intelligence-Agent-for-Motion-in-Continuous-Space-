@@ -9,7 +9,7 @@ The simplified Canadarm operates in a 2D workspace. In particular, the 2D worksp
 
 ### Solver.py
 
-Solver.py takes an test configuration as an input and returns a file with a path that the Canadarm can take to reach the destination without colliding with any obstructions.
+Solver.py takes an test configuration as an input and returns a file with a path that the Canadarm can take to reach the destination without colliding with any obstructions. For detailed explanation you can read the Solution.docx
 
 To get the Output path file, we need to run the command below in the terminal:  
 
